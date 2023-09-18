@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <element>
-    <__bGDA____bCTQ____bGCQ____EA____bCTQ____bCYQ____bCZA____HI__>دلار</__bGDA____bCTQ____bGCQ____EA____bCTQ____bCYQ____bCZA____HI__>
-    <__bGBA____bOGA____bGCQ____bCVA____HI__>نامشخص</__bGBA____bOGA____bGCQ____bCVA____HI__>
-  </element>
-  <element>
-    <__bGDA____bCTQ____bGCQ____EA____bCTQ____bCYQ____bCZA____HI__>یورو</__bGDA____bCTQ____bGCQ____EA____bCTQ____bCYQ____bCZA____HI__>
-    <__bGBA____bOGA____bGCQ____bCVA____HI__>نامشخص</__bGBA____bOGA____bGCQ____bCVA____HI__>
-  </element>
-  <element>
-    <__bGDA____bCTQ____bGCQ____EA____bCTQ____bCYQ____bCZA____HI__>بیتکوین</__bGDA____bCTQ____bGCQ____EA____bCTQ____bCYQ____bCZA____HI__>
-    <__bGBA____bOGA____bGCQ____bCVA____HI__>نامشخص</__bGBA____bOGA____bGCQ____bCVA____HI__>
-  </element>
-</root>
+[
+  {
+    "نام ارز:": "دلار",
+    "قیمت:": "نامشخص"
+  },
+  {
+    "نام ارز:": "یورو",
+    "قیمت:": "نامشخص"
+  },
+  {
+    "نام ارز:": "بیتکوین",
+    "قیمت:": "نامشخص"
+  }
+]
